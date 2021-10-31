@@ -1,0 +1,3 @@
+- 👋 Hey!
+- 👀 Ich mache gerne kleine Projekte und lerne gerne neue Sachen.
+- 🌱 Ich lerne derzeit Javascript.
